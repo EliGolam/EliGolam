@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+I am a problem solver at heart. Programming happens to be one of the most rewarding ways to solve problems. 
 CodePen: https://codepen.io/eligolam
+
 
 <!--
 **EliGolam/EliGolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
