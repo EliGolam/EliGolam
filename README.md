@@ -19,7 +19,10 @@ I am a passionate Full Stack Developer with 2 years of professional experience a
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <!-- https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logo=vue.js&logoColor=white" alt="Vue.js" /> -->
+  
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,6 +43,11 @@ I am a passionate Full Stack Developer with 2 years of professional experience a
   <img src="https://github-readme-stats.vercel.app/api?username=EliGolam&show_icons=true&hide_rank=true&theme=radical" alt="Elias Mahfuzul's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliGolam&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<!-- My Projects -->
+## My Projects
+
+[![Vue FrontEnd Mentor Challenges](https://github-readme-stats.vercel.app/api/pin/?username=EliGolam&repo=vue-front-end-mentor-challenges&theme=radical)](https://github.com/EliGolam/vue-front-end-mentor-challenges)
 
 <!-- Social links section -->
 ## 🌐 Connect with Me
